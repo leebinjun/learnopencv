@@ -3,3 +3,5 @@ images/
 __pycache__/
 目标检测与识别/HOG+SVM实现行人识别/INRIADATA/
 目标检测与识别/HOG+SVM实现行人识别/INRIADATA.zip
+目标检测与识别/HOG+SVM实现行人识别/y_data.npy
+目标检测与识别/HOG+SVM实现行人识别/X_data.npy
